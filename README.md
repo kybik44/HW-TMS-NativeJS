@@ -1,2 +1,4 @@
-# HW-TMS-NativeJS
-Small tasks in the course of teaching in a progamming school TMS
+# HW-TMS-NativeJS(Task-1)
+Task1 Binary search
+
+Task2 Bubble sort 
